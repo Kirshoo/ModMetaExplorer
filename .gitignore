@@ -1,6 +1,7 @@
 # Build Artifacts
 obj/
 bin/
+*.zip
 
 # Visual Studio
 .vs/
